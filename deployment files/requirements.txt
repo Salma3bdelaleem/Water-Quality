@@ -1,0 +1,11 @@
+Flask==2.2.3
+Flask-Cors==3.0.10
+numpy==1.24.3
+pandas==2.0.3
+xgboost==1.7.6
+scikit-learn==1.2.2
+matplotlib==3.7.1
+seaborn==0.12.2
+plotly==5.14.1
+
+''' pip install -r requirements.txt '''
